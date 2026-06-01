@@ -11,4 +11,4 @@ leetcode or codeforces problems.
 If you use the get_string function, do not forget to free the memory that is going to be allocated to the
 string/ char pointer.
 
-for the source code of get_string check compstring.c
+For the source code of get_string check compstring.c
